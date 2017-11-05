@@ -1,8 +1,6 @@
 # bash-test
 
-[![Build Status](https://travis-ci.org/campanda/bash-test.svg?branch=master)](https://travis-ci.org/campanda/bash-test)
-[![Code Climate](https://codeclimate.com/github/campanda/bash-test/badges/gpa.svg)](https://codeclimate.com/github/campanda/bash-test)
-[![Issue Count](https://codeclimate.com/github/campanda/bash-test/badges/issue_count.svg)](https://codeclimate.com/github/campanda/bash-test)
+[![Build Status](https://travis-ci.org/pierreprinetti/bash-test.svg?branch=master)](https://travis-ci.org/pierreprinetti/bash-test)
 
 Simple test runner for [Bash][0].
 
